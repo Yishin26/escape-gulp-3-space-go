@@ -1,7 +1,7 @@
 {
   "name": "gulp-demo",
   "version": "1.0.0",
-  "description": "",
+  "description": "## 安裝環境",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -14,7 +14,7 @@
     "babelify": "^7.3.0",
     "bootstrap": "4.0.0",
     "browser-sync": "^2.18.8",
-    "gulp": "3.9.1",
+    "gulp": "^3.9.1",
     "gulp-browserify": "^0.5.1",
     "gulp-clean": "^0.3.2",
     "gulp-concat": "^2.6.1",
@@ -36,5 +36,13 @@
   },
   "devDependencies": {
     "gulp-ejs": "^5.1.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yishin26/escape-gulp-3-space-go.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Yishin26/escape-gulp-3-space-go/issues"
+  },
+  "homepage": "https://github.com/Yishin26/escape-gulp-3-space-go#readme"
 }
